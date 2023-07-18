@@ -19,7 +19,7 @@ import io.restassured.specification.RequestSpecification;
 
 public class FetchRecordsAndPrintInConcole {
 
-	int ID = 0;//comment
+	int ID = 0;
 
 	@BeforeClass
 	public void init() {
